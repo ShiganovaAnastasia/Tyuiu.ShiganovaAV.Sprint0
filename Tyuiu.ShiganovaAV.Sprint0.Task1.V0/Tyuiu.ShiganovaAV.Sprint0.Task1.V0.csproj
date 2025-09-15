@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1FE50718-C27D-4A51-AB34-810469E63453}</ProjectGuid>
+    <ProjectGuid>{3EAB7258-E27E-4486-8855-887FD14680F6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Tyuiu.ShiganovaAV.Sprint0.Task1.V0</RootNamespace>
     <AssemblyName>Tyuiu.ShiganovaAV.Sprint0.Task1.V0</AssemblyName>

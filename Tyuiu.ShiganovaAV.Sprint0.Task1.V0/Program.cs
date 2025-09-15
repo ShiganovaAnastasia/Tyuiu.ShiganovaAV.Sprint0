@@ -14,6 +14,7 @@ namespace Tyuiu.ShiganovaAV.Sprint0.Task1.V0
             string name = "Настя";
             int age = 20;
             Console.WriteLine("Здравствуйте, меня зовут" + name + "мне" + age + "лет!");
+
             Console.ReadKey();
         }
     }
